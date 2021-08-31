@@ -30,16 +30,16 @@ $grays: ("100": $gray-100,
   "900": $gray-900) !default;
 // fusv-enable
 
-$blue       : #0d6efd !default;
+$blue       : #073b5c!default;
 $indigo     : #6610f2 !default;
 $purple     : #6f42c1 !default;
-$pink       : #d63384 !default;
-$red        : #dc3545 !default;
-$orange     : #e84422 !default;
-$yellow     : #ffc107 !default;
-$green      : #3aaf85 !default;
-$teal       : #20c997 !default;
-$cyan       : #17a2b8 !default;
+$pink       : #f28482 !default;
+$red        : #ff928b !default;
+$orange     : #ffac81 !default;
+$yellow     : #f6bd60 !default;
+$green      : #84a59d !default;
+$teal       : #d8e2dc !default;
+$cyan       : #3a7ca5 !default;
 $soft-indigo:#f5e8ff !default;
 $soft-green : #2CA58D !default;
 
@@ -60,13 +60,13 @@ $colors: ("blue": $blue,
 // scss-docs-end colors-map
 
 // Color scheme
-$primary  : #242e4c !default;
-$secondary: #1c2540 !default;
-$tertiary : #1d58a5 !default;
+$primary  : #145279 !default;
+$secondary: #174c6d !default;
+$tertiary : #3a7ca5 !default;
 
 // Mobile landing color scheme
 $primary-app  : #EBF4F6 !default;
-$secondary-app: #424AA0 !default;
+$secondary-app: #3a7ca5 !default;
 
 $success: $green !default;
 $info   : $blue !default;
