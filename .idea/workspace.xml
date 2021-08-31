@@ -2,19 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab4e9c8-d719-4742-86b4-5c7562c1b37b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/contact1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/index copy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/assets/img/favicon/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/android-chrome-256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/android-chrome-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/assets/img/favicon/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/assets/img/favicon/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/navigation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-intro.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen-register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/flask-pixel-bootstrap-uikit-screen.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/static/assets/img/favicon" />
       <recent name="$PROJECT_DIR$/app/templates" />
     </key>
   </component>
