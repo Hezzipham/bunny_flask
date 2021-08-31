@@ -17,6 +17,25 @@ from app        import app, lm, db, bc
 from app.models import User
 from app.forms  import LoginForm, RegisterForm
 
+
+#homepage
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+@app.route('/contact')
+def contact_me():
+    return render_template('contact.html')
+
+@app.route('/shop')
+def shop():
+    return render_template('shop.html')
+
+@app.route('/blog')
+def blog():
+    return render_template('blog.html')
+
+
 # provide login manager with load_user callback
 @lm.user_loader
 def load_user(user_id):
@@ -108,9 +127,7 @@ def login():
     return render_template( 'accounts/login.html', form=form, msg=msg )
 
 # App main route + generic routing
-@app.route('/')
-def home():
-    return render_template('index.html')
+
 
 
 @app.route('/<path>')
