@@ -35,10 +35,13 @@ def shop():
 @app.route('/blog')
 def blog():
 <<<<<<< HEAD
+<<<<<<< HEAD
     # API_endpoint = "https://api.sheety.co/6da288b8b48fbffb4c7b5ec0afb715c8/questions/formResponses1"
     # sheety_response = requests.get(API_endpoint)
     # rows = sheety_response.json()["formResponses1"]
     # q_list = [(row["id"] -1,row["timestamp"], row["câuHỏi/LờiNhắnYourQuestion/Message"]) for row in rows]
+=======
+>>>>>>> parent of fd72245 (data)
 =======
 >>>>>>> parent of fd72245 (data)
     return render_template('blog.html')
