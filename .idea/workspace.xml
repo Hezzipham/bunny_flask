@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/app/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
 =======
@@ -27,6 +28,14 @@
 =======
       <change beforePath="$PROJECT_DIR$/app/youtubeapi.py" beforeDir="false" />
 >>>>>>> parent of 3c2a009 (remove request)
+=======
+      <change afterPath="$PROJECT_DIR$/app/client_secret.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/youtubeapi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+>>>>>>> parent of 7b331a9 (go)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
