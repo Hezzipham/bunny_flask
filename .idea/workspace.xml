@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/app/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
 =======
@@ -37,6 +38,9 @@
       <change beforePath="$PROJECT_DIR$/app/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
 >>>>>>> parent of 7b331a9 (go)
+=======
+      <change beforePath="$PROJECT_DIR$/app/youtubeapi.py" beforeDir="false" />
+>>>>>>> parent of 3c2a009 (remove request)
 =======
       <change beforePath="$PROJECT_DIR$/app/youtubeapi.py" beforeDir="false" />
 >>>>>>> parent of 3c2a009 (remove request)
