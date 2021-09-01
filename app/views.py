@@ -17,59 +17,6 @@ from app        import app, lm, db, bc
 from app.models import User
 from app.forms  import LoginForm, RegisterForm
 
-
-
-#homepage
-@app.route('/')
-def home():
-    return render_template('index.html')
-
-@app.route('/contact')
-def contact_me():
-    return render_template('contact.html')
-
-@app.route('/shop')
-def shop():
-    return render_template('shop.html')
-
-@app.route('/blog')
-def blog():
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    # API_endpoint = "https://api.sheety.co/6da288b8b48fbffb4c7b5ec0afb715c8/questions/formResponses1"
-    # sheety_response = requests.get(API_endpoint)
-    # rows = sheety_response.json()["formResponses1"]
-    # q_list = [(row["id"] -1,row["timestamp"], row["câuHỏi/LờiNhắnYourQuestion/Message"]) for row in rows]
-=======
->>>>>>> parent of fd72245 (data)
-=======
->>>>>>> parent of fd72245 (data)
-=======
->>>>>>> parent of fd72245 (data)
-    return render_template('blog.html')
-=======
-=======
->>>>>>> parent of 3c2a009 (remove request)
-=======
->>>>>>> parent of 3c2a009 (remove request)
-    API_endpoint = "https://api.sheety.co/6da288b8b48fbffb4c7b5ec0afb715c8/questions/formResponses1"
-    sheety_response = requests.get(API_endpoint)
-    rows = sheety_response.json()["formResponses1"]
-    q_list = [(row["id"] -1,row["timestamp"], row["câuHỏi/LờiNhắnYourQuestion/Message"]) for row in rows]
-    return render_template('blog.html', q_list = q_list )
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 3c2a009 (remove request)
-=======
->>>>>>> parent of 3c2a009 (remove request)
-=======
->>>>>>> parent of 3c2a009 (remove request)
-
-
 # provide login manager with load_user callback
 @lm.user_loader
 def load_user(user_id):
@@ -161,9 +108,7 @@ def login():
     return render_template( 'accounts/login.html', form=form, msg=msg )
 
 # App main route + generic routing
-
-
-
+@app.route('/', defaults={'path': 'index.html'})
 @app.route('/<path>')
 def index(path):
 
