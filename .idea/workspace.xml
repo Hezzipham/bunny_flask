@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab4e9c8-d719-4742-86b4-5c7562c1b37b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/client_secret.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/youtubeapi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/youtubeapi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
